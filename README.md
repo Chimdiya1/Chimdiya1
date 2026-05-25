@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chimdia</h1>
-<h3 align="center">A passionate Software Engineer from Nigeria</h3>
+<h3 align="center">A passionate Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chimdiya1&label=Profile%20views&color=0e75b6&style=flat" alt="chimdiya1" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **My masters**
 
-- 🌱 I’m currently learning **AI, MLOps, and Vibecoding**
+- 🌱 I’m currently learning **AI and MLOps**
 
 - 💬 Ask me about **React, NextJs, Typescript, NodeJS, AI**
 
